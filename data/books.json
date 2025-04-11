@@ -1,0 +1,31 @@
+{
+    "books":[
+      {
+      "id": "1",
+      "name": "do do",
+      "author": "tim",
+      "genre": "fiction",
+      "price": "100",
+      "publisher": "dips"
+      
+    },
+    {
+      "id": "2",
+      "name": "iofd",
+      "author": "tjake",
+      "genre": "norm",
+      "price": "1000",
+      "publisher": "tips"
+      
+    },
+    {
+      "id": "3",
+      "name": "hon",
+      "author": "sully",
+      "genre": "fiction",
+      "price": "200",
+      "publisher": "dssd"
+      
+    }
+  ]
+}
